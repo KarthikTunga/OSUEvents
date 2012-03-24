@@ -1,0 +1,50 @@
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\arora.gif
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\belkin.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\bond.jpeg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\crawfis.gif
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\david.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\davis.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\DL.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\emeritus.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\event.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\fengqin.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\gagan.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\Logo.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\panda.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\person.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\SmallLogo.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\SplashScreen.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\StoreLogo.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\LightGray.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\MediumGray.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\DarkGray.png
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\wexner.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Assets\zhang.jpg
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Split Application.exe
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\Split Application.pdb
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\resources.pri
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\AppxManifest.xml
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\bin\Debug\OSU-Event-App.build.appxrecipe
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\App.g.i.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\App.g.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\ItemsPage.g.i.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\ItemsPage.g.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\SplitPage.g.i.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\SplitPage.g.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\App.xaml
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\ItemsPage.xaml
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\SplitPage.xaml
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\Common\StandardStyles.xaml
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\Split Application.exe
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\Split Application.pdb
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\priconfig.xml.intermediate
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\layout.resfiles.intermediate
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\resources.resfiles.intermediate
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\pri.resfiles.intermediate
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\priconfig.xml
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\layout.resfiles
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\resources.resfiles
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\pri.resfiles
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\LanguageQualifiers.txt
+C:\Users\apache\documents\visual studio 11\Projects\Split Application\Split Application\obj\Debug\ProjectArchitectures.txt
