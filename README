@@ -1,0 +1,5 @@
+1. For Initial Testing I have hardcoded the values.
+2. For Testing with real values - 
+   a. Pass false to dummy for the call GetEventsFeedData(string url,EventsDataGroup group, bool dummyData).
+      So the change is GetEventsFeedData(url1,this,true) to GetEventsFeedData(url1,this,false) in line 187 (EventData.cs)
+  	
